@@ -1,0 +1,14 @@
+{
+  "name": "scrape-russian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grabwords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^4.0.0"
+  }
+}
